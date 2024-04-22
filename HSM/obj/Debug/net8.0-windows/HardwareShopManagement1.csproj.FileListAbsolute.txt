@@ -1,0 +1,36 @@
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\Form1.cs
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.exe
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.deps.json
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.runtimeconfig.json
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.dll
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.pdb
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.Form1.resources
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.Form2.resources
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.csproj.GenerateResource.cache
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.AssemblyInfoInputs.cache
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.AssemblyInfo.cs
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.csproj.CoreCompileInputs.cache
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.dll
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\refint\HardwareShopManagement1.dll
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.pdb
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.genruntimeconfig.cache
+C:\Users\ryuos\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\ref\HardwareShopManagement1.dll
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\Form1.cs
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.exe
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.deps.json
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.runtimeconfig.json
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.dll
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\bin\Debug\net8.0-windows\HardwareShopManagement1.pdb
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.Form1.resources
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.Form2.resources
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.csproj.GenerateResource.cache
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.AssemblyInfoInputs.cache
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.AssemblyInfo.cs
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.csproj.CoreCompileInputs.cache
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.dll
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\refint\HardwareShopManagement1.dll
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.pdb
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\HardwareShopManagement1.genruntimeconfig.cache
+C:\Users\ryuos\source\repos\HardwareShopManagement1-main\HardwareShopManagement1\obj\Debug\net8.0-windows\ref\HardwareShopManagement1.dll
